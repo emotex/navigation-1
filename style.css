@@ -22,7 +22,7 @@ a {
 header {
   position: sticky;
   top: 0px;
-  background-color: #110675;
+  background-color: #b40808;
   width: 100%;
   z-index: 1000;
 }
@@ -31,7 +31,7 @@ section {
   position: relative;
   height: calc(100vh - 3rem);
   width: 100%;
-  background: url("bg.jpg") no-repeat top center / cover;
+  background: url("big.jpg") no-repeat top center / cover;
   overflow: hidden;
 }
 
